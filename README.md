@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Hi! I'm Sanghun </h3>
 <p align="center">
-  <a href="mailto:kwonbe99@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>&nbsp
+  <a href="mailto:amen101673@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://www.notion.so/144a9ba25d7d80c8858ec7904447697d?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
 <h4 align="center"> </h4>
 <br>
