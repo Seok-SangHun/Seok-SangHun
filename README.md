@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   
 <h2 align="center"> ✨My Github Stats✨ </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seok-SangHun&show_icons=true" style="margin-right: 10px;"> &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seok-SangHun&layout=compact" style="margin-left: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seok-SangHun&show_icons=true"> &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seok-SangHun&layout=compact">
 </p>
 
